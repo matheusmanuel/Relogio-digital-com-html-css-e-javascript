@@ -6,4 +6,4 @@ no arquivo (index.html) vamos digitar todo o esqueleto do relógio ou melhor tod
 ## [🛠Assistir](https://www.youtube.com/watch?v=GyDOFyTPoWk)
 ## [⚠Me Ajude](https://www.youtube.com/channel/UCxKIsX5OXyyNWVmomuDc-LA?sub_confirmation=1)
 # Preview
-![🕐RELÓGIO-DIGITAL(Digital-Clock)-HTML-CSS-&-JAVASCRIPT](/[🕐RELÓGIO-DIGITAL(Digital-Clock)-HTML-CSS-&-JAVASCRIPT.png)
+![🕐RELÓGIO-DIGITAL(Digital-Clock)-HTML-CSS-&-JAVASCRIPT](/🕐RELÓGIO-DIGITAL(Digital-Clock)-HTML-CSS-&-JAVASCRIPT.png)
